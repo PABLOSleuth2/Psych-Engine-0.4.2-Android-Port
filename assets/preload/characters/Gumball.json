@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				71
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gumball_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				90
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gumball_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gumball_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				45
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gumball_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				29
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gumball_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gumball",
+	"position": [
+		-260,
+		-20
+	],
+	"healthicon": "gumball",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		166,
+		236
+	],
+	"camera_position": [
+		20,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}
