@@ -393,6 +393,9 @@ class PlayState extends MusicBeatState
 					stageCurtains.updateHitbox();
 					add(stageCurtains);
 				}
+			case 'Gumball Glitch': //Week Gumball
+				var bg:BGSprite = new BGSprite('Gumball Glitch', -600, -300, 0.9, 0.9);
+				add(bg);
 
 			case 'spooky': //Week 2
 				if(!ClientPrefs.lowQuality) {
