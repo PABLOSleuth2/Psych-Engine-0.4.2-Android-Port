@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gumball.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gumball_down0000" x="0" y="0" width="405" height="412" frameX="0" frameY="0" frameWidth="408" frameHeight="421"/>
+	<SubTexture name="gumball_down0001" x="405" y="0" width="405" height="328" frameX="-3" frameY="-92" frameWidth="408" frameHeight="421"/>
+	<SubTexture name="gumball_down0002" x="810" y="0" width="404" height="283" frameX="-4" frameY="-138" frameWidth="408" frameHeight="421"/>
+	<SubTexture name="gumball_down0003" x="1214" y="0" width="404" height="283" frameX="-4" frameY="-138" frameWidth="408" frameHeight="421"/>
+	<SubTexture name="gumball_down0004" x="1618" y="0" width="405" height="282" frameX="-3" frameY="-138" frameWidth="408" frameHeight="421"/>
+	<SubTexture name="gumball_down0005" x="2023" y="0" width="405" height="281" frameX="-3" frameY="-138" frameWidth="408" frameHeight="421"/>
+	<SubTexture name="gumball_down0006" x="2428" y="0" width="406" height="281" frameX="-2" frameY="-138" frameWidth="408" frameHeight="421"/>
+	<SubTexture name="gumball_down0007" x="2834" y="0" width="405" height="281" frameX="-2" frameY="-138" frameWidth="408" frameHeight="421"/>
+	<SubTexture name="gumball_down0008" x="3239" y="0" width="405" height="280" frameX="-2" frameY="-138" frameWidth="408" frameHeight="421"/>
+	<SubTexture name="gumball_down0009" x="3644" y="0" width="405" height="280" frameX="-2" frameY="-138" frameWidth="408" frameHeight="421"/>
+	<SubTexture name="gumball_down0010" x="4049" y="0" width="406" height="281" frameX="-2" frameY="-138" frameWidth="408" frameHeight="421"/>
+	<SubTexture name="gumball_idle0000" x="4455" y="0" width="573" height="505" frameX="0" frameY="0" frameWidth="573" frameHeight="506"/>
+	<SubTexture name="gumball_idle0001" x="5028" y="0" width="554" height="505" frameX="-9" frameY="0" frameWidth="573" frameHeight="506"/>
+	<SubTexture name="gumball_idle0002" x="5582" y="0" width="559" height="504" frameX="-11" frameY="-1" frameWidth="573" frameHeight="506"/>
+	<SubTexture name="gumball_idle0003" x="6141" y="0" width="555" height="503" frameX="-7" frameY="-2" frameWidth="573" frameHeight="506"/>
+	<SubTexture name="gumball_idle0004" x="6696" y="0" width="555" height="502" frameX="-6" frameY="-3" frameWidth="573" frameHeight="506"/>
+	<SubTexture name="gumball_idle0005" x="7251" y="0" width="549" height="502" frameX="-12" frameY="-3" frameWidth="573" frameHeight="506"/>
+	<SubTexture name="gumball_idle0006" x="0" y="505" width="561" height="502" frameX="0" frameY="-3" frameWidth="573" frameHeight="506"/>
+	<SubTexture name="gumball_idle0007" x="561" y="505" width="567" height="504" frameX="-2" frameY="-2" frameWidth="573" frameHeight="506"/>
+	<SubTexture name="gumball_idle0008" x="1128" y="505" width="556" height="504" frameX="-14" frameY="-1" frameWidth="573" frameHeight="506"/>
+	<SubTexture name="gumball_idle0009" x="1684" y="505" width="547" height="506" frameX="-14" frameY="0" frameWidth="573" frameHeight="506"/>
+	<SubTexture name="gumball_idle0010" x="2231" y="505" width="563" height="505" frameX="0" frameY="0" frameWidth="573" frameHeight="506"/>
+	<SubTexture name="gumball_left0000" x="2794" y="505" width="570" height="486" frameX="0" frameY="-12" frameWidth="621" frameHeight="498"/>
+	<SubTexture name="gumball_left0001" x="3364" y="505" width="550" height="486" frameX="-66" frameY="-1" frameWidth="621" frameHeight="498"/>
+	<SubTexture name="gumball_left0002" x="3914" y="505" width="547" height="484" frameX="-74" frameY="0" frameWidth="621" frameHeight="498"/>
+	<SubTexture name="gumball_left0003" x="4461" y="505" width="548" height="484" frameX="-72" frameY="0" frameWidth="621" frameHeight="498"/>
+	<SubTexture name="gumball_left0004" x="5009" y="505" width="549" height="484" frameX="-67" frameY="0" frameWidth="621" frameHeight="498"/>
+	<SubTexture name="gumball_left0005" x="5558" y="505" width="551" height="483" frameX="-59" frameY="0" frameWidth="621" frameHeight="498"/>
+	<SubTexture name="gumball_left0006" x="6109" y="505" width="552" height="483" frameX="-55" frameY="0" frameWidth="621" frameHeight="498"/>
+	<SubTexture name="gumball_left0007" x="6661" y="505" width="552" height="483" frameX="-53" frameY="0" frameWidth="621" frameHeight="498"/>
+	<SubTexture name="gumball_left0008" x="7213" y="505" width="553" height="483" frameX="-52" frameY="0" frameWidth="621" frameHeight="498"/>
+	<SubTexture name="gumball_left0009" x="0" y="1011" width="553" height="483" frameX="-51" frameY="0" frameWidth="621" frameHeight="498"/>
+	<SubTexture name="gumball_left0010" x="553" y="1011" width="553" height="483" frameX="-51" frameY="0" frameWidth="621" frameHeight="498"/>
+	<SubTexture name="gumball_right0000" x="1106" y="1011" width="730" height="437" frameX="0" frameY="-6" frameWidth="763" frameHeight="445"/>
+	<SubTexture name="gumball_right0001" x="1836" y="1011" width="718" height="443" frameX="-45" frameY="0" frameWidth="763" frameHeight="445"/>
+	<SubTexture name="gumball_right0002" x="2554" y="1011" width="715" height="443" frameX="-48" frameY="0" frameWidth="763" frameHeight="445"/>
+	<SubTexture name="gumball_right0003" x="3269" y="1011" width="715" height="443" frameX="-48" frameY="0" frameWidth="763" frameHeight="445"/>
+	<SubTexture name="gumball_right0004" x="3984" y="1011" width="715" height="443" frameX="-48" frameY="0" frameWidth="763" frameHeight="445"/>
+	<SubTexture name="gumball_right0005" x="4699" y="1011" width="715" height="443" frameX="-48" frameY="0" frameWidth="763" frameHeight="445"/>
+	<SubTexture name="gumball_right0006" x="5414" y="1011" width="715" height="443" frameX="-48" frameY="0" frameWidth="763" frameHeight="445"/>
+	<SubTexture name="gumball_right0007" x="6129" y="1011" width="714" height="445" frameX="-49" frameY="0" frameWidth="763" frameHeight="445"/>
+	<SubTexture name="gumball_right0008" x="6843" y="1011" width="714" height="443" frameX="-49" frameY="0" frameWidth="763" frameHeight="445"/>
+	<SubTexture name="gumball_right0009" x="0" y="1494" width="714" height="445" frameX="-49" frameY="0" frameWidth="763" frameHeight="445"/>
+	<SubTexture name="gumball_right0010" x="714" y="1494" width="714" height="443" frameX="-49" frameY="0" frameWidth="763" frameHeight="445"/>
+	<SubTexture name="gumball_up0000" x="1428" y="1494" width="618" height="523" frameX="-10" frameY="-11" frameWidth="644" frameHeight="536"/>
+	<SubTexture name="gumball_up0001" x="2046" y="1494" width="642" height="521" frameX="-1" frameY="0" frameWidth="644" frameHeight="536"/>
+	<SubTexture name="gumball_up0002" x="2688" y="1494" width="643" height="522" frameX="-1" frameY="0" frameWidth="644" frameHeight="536"/>
+	<SubTexture name="gumball_up0003" x="3331" y="1494" width="643" height="534" frameX="-1" frameY="0" frameWidth="644" frameHeight="536"/>
+	<SubTexture name="gumball_up0004" x="3974" y="1494" width="642" height="521" frameX="-1" frameY="0" frameWidth="644" frameHeight="536"/>
+	<SubTexture name="gumball_up0005" x="4616" y="1494" width="641" height="521" frameX="-1" frameY="-1" frameWidth="644" frameHeight="536"/>
+	<SubTexture name="gumball_up0006" x="5257" y="1494" width="640" height="533" frameX="0" frameY="-3" frameWidth="644" frameHeight="536"/>
+	<SubTexture name="gumball_up0007" x="5897" y="1494" width="639" height="524" frameX="0" frameY="-3" frameWidth="644" frameHeight="536"/>
+	<SubTexture name="gumball_up0008" x="6536" y="1494" width="638" height="529" frameX="0" frameY="-4" frameWidth="644" frameHeight="536"/>
+	<SubTexture name="gumball_up0009" x="7174" y="1494" width="638" height="528" frameX="0" frameY="-4" frameWidth="644" frameHeight="536"/>
+	<SubTexture name="gumball_up0010" x="0" y="2028" width="638" height="530" frameX="0" frameY="-4" frameWidth="644" frameHeight="536"/>
+</TextureAtlas>
